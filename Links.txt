@@ -1,0 +1,33 @@
+Fragment with Recycler list view
+
+https://www.youtube.com/watch?v=oBhgyiBVd3k&t=10s - part 1
+https://www.youtube.com/watch?v=T_QfRU-A3s4 - part 2
+https://www.youtube.com/watch?v=Zd0TUuoPP-s - part 3
+
+Custom Grid view with Recycler view
+
+https://www.youtube.com/watch?v=HuAKlyHbKwE
+
+Recyclerview + Cardview with GridLayout
+
+https://www.youtube.com/watch?v=SD2t75T5RdY
+
+Android Studio Tutorial - Firebase Tutorial 
+
+https://www.youtube.com/watch?v=i-gZAYBMuBs&list=PLGCjwl1RrtcTXrWuRTa59RyRmQ4OedWrt
+
+Content Provider
+
+https://www.youtube.com/watch?v=-4GgzqMVrYc&list=PLfuE3hOAeWhb7kirY4rBtTLVF73jEXwG4
+
+Android SQLite Database Tutorial
+
+https://www.youtube.com/watch?v=cp2rL3sAFmI&list=PLS1QulWo1RIaRdy16cOzBO5Jr6kEagA07
+
+Android SQLite database. Create, Read, Update, Delete data displayed on a Recyclerview
+
+https://www.youtube.com/watch?v=Xteiq8MCWmI
+
+okhttp android tutorial
+
+https://www.youtube.com/watch?v=cmbl6WF3wXI&list=PLSN_QkFwFlBf432AtERzWsTp55D2dZlV- 
